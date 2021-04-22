@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mfk34.
-- I'm learning programming. (now: Java)
 
 <!---
 mfk34/mfk34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
